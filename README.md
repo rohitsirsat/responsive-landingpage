@@ -22,8 +22,7 @@ A modern, professional, and fully responsive landing page for the ZenBoost produ
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/zenboost-landing-page.git
-   cd zenboost-landing-page
+   https://github.com/rohitsirsat/responsive-landingpage.git
    ```
 
 2. **Open `index.html` in your browser:**
